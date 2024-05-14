@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'Croogla 4F';
+    src: url('../font/Croogla4F.eot');
+    src: local('Croogla 4F'), local('Croogla4F'),
+        url('../font/Croogla4F.eot') format('embedded-opentype'),
+        url('../font/Croogla4F.woff2') format('woff2'),
+        url('../font/Croogla4F.woff') format('woff'),
+        url('../font/Croogla4F.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.navbar-nav {
+    font-size: 155%;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+}
+
+nav {
+    background: #46216F;
+}
+
+.logo {
+    max-width: 55px;
+}
+
+.nav-link {
+    color: white;
+}
+
+
+.navbar-nav .active {
+    color: #CD2A74 !important;
+    font-weight: 655;
+}
+
+.banner {
+    background-image: url("../img/bannerBG.jpeg");
+    color: white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    padding: 20% 10% 20% 2%;
+    font-weight: bolder;
+    margin-left: 15%;
+
+}
+
+img.card-img {
+    object-fit: cover;
+    height: 200%;
+}
+
+.navbar-nav :hover {
+    color: #CD2A74 !important;
+    font-weight: 655;
+}
+
+.icons {
+    position: relative;
+    padding-left: 23%;
+}
+
+
+
+img.tv {
+    position: absolute;
+    padding-top: 165%;
+    width: 55%;
+    margin-left: 7.5%;
+    height: auto;
+}
+
+p.tv {
+    position: absolute;
+    padding-top: 220%;
+    margin-left: 26.5%;
+    color: black;
+}
+
+p.internet {
+    position: absolute;
+    padding-top: 220%;
+    margin-left: 6%;
+    color: black;
+}
+
+img.internet {
+    position: absolute;
+    padding-top: 165%;
+    margin-left: 10%;
+    width: 50%;
+    height: auto;
+}
+
+img.tel {
+    position: absolute;
+    padding-top: 165%;
+    margin-left: 18%;
+    width: 35%;
+    height: auto;
+}
+
+p.tel {
+    position: absolute;
+    padding-top: 220%;
+    margin-left: 7.5%;
+    color: black;
+    font-weight: 400;
+}
+
+.card {
+    margin-top: 10px;
+    border: none;
+    margin-bottom: 40px;
+}
+
+.card-img {
+    border-radius: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption.sub {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.packs {
+    padding-bottom: 11px;
+}
+
+.mobile2 {
+    padding-bottom: 3px;
+}
+
+.tv2 {
+    padding-bottom: 5px;
+}
+
+.abo {
+    background: linear-gradient(0.25turn, #d68fb4, #6a3995);
+    background-size: 100%;
+}
+
+p.abotext {
+    padding-top: 80px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+h2.abotext {
+    margin-top: -4%;
+    font-size: 40px;
+    font-weight: bold;
+    color: #46216f;
+}
+
+.subabo {
+    border-style: solid;
+    border-color: #e62a74;
+    background-color: #e62a74;
+    color: white;
+    border-radius: 0px 0px 20px;
+    padding: 10px 20px;
+    margin-top: 15px;
+}
+
+.subwabo {
+    background-color: transparent;
+    color: white;
+    border-radius: 0px 0px 20px;
+    padding: 10px 20px;
+    margin-top: 25px;
+    border-color: white;
+    border-style: solid;
+}
+
+.phones {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.parent {
+    position: relative;
+    color: white;
+}
+
+.img1 {
+    position: relative;
+}
+
+.img2 {
+    position: absolute;
+    width: 40%;
+    top: 34%;
+    left: 196px;
+}
+
+.txt {
+    top: 43%;
+    left: 74%;
+    position: absolute;
+}
+
+footer {
+    background-color: #46216F;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.sign {
+    position: relative;
+    text-align: end;
+    left: 82.5%;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
